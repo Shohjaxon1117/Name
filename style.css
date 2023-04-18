@@ -1,0 +1,24 @@
+.ffamily {
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-weight: 1px;
+}.fa{
+    font-size: 28px;
+}.nav-item{
+    font-size: 1.4rem;
+}.ttex {
+    font-size: 2.0rem;
+    color: red;
+}.cont2{
+    position:sticky;
+    top: -1%;
+    z-index: 100;
+}.divv{
+    background-image: url(./jason-goodman-0K7GgiA8lVE-unsplash.jpg);
+   width: 100%;
+   background-position: center;
+   background-size: cover;
+   height: 80vh;
+   overflow: hidden;
+}
